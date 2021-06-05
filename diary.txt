@@ -1,0 +1,354 @@
+run
+Get projections on coastline / Runs:500/7364 / Timeleft:13.592425 seconds
+Get projections on coastline / Runs:1000/7364 / Timeleft:11.500325 seconds
+Get projections on coastline / Runs:1500/7364 / Timeleft:10.333199 seconds
+Get projections on coastline / Runs:2000/7364 / Timeleft:9.312931 seconds
+Get projections on coastline / Runs:2500/7364 / Timeleft:8.172577 seconds
+Get projections on coastline / Runs:3000/7364 / Timeleft:7.168264 seconds
+Get projections on coastline / Runs:3500/7364 / Timeleft:6.253148 seconds
+Get projections on coastline / Runs:4000/7364 / Timeleft:5.423212 seconds
+Get projections on coastline / Runs:4500/7364 / Timeleft:4.573556 seconds
+Get projections on coastline / Runs:5000/7364 / Timeleft:3.745963 seconds
+Get projections on coastline / Runs:5500/7364 / Timeleft:2.936722 seconds
+Get projections on coastline / Runs:6000/7364 / Timeleft:2.134533 seconds
+Get projections on coastline / Runs:6500/7364 / Timeleft:1.344949 seconds
+Get projections on coastline / Runs:7000/7364 / Timeleft:0.563641 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.860701 seconds
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.969670 seconds
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.538626 seconds
+Online back tracking and restart / Runs:2000/7364 / Timeleft:4.041866 seconds
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.595700 seconds
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.164225 seconds
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.779177 seconds
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.407418 seconds
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.055617 seconds
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.683271 seconds
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.325747 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:0.963623 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:0.608122 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:0.253294 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:4.993978 seconds
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.338904 seconds
+Online back tracking and restart / Runs:1500/7364 / Timeleft:3.806968 seconds
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.475575 seconds
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.144048 seconds
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.790165 seconds
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.468784 seconds
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.134785 seconds
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.814903 seconds
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.495452 seconds
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.183303 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:0.861686 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:0.544901 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:0.227323 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:4.049066 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.676281 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:3.284504 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.073178 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.778572 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.503823 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.235400 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.948738 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.668565 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.381570 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.099855 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:48.227118 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:30.659252 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:12.775313 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:1.345256 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:1.226701 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:1.081184 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:1.027151 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:56.361190 seconds
+Online back tracking and restart / Runs:3000/7364 / Timeleft:50.553366 seconds
+Online back tracking and restart / Runs:3500/7364 / Timeleft:44.834663 seconds
+Online back tracking and restart / Runs:4000/7364 / Timeleft:39.036188 seconds
+Online back tracking and restart / Runs:4500/7364 / Timeleft:33.390400 seconds
+Online back tracking and restart / Runs:5000/7364 / Timeleft:27.553977 seconds
+Online back tracking and restart / Runs:5500/7364 / Timeleft:21.887211 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:16.020490 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:10.158393 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:4.234553 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.727828 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.217118 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.879028 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.702852 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.387497 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.128089 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:1.947928 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.748989 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.571536 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.327117 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.066092 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:47.114002 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:30.029036 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:12.547103 seconds
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:1.964115 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:1.781435 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:1.608604 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:1.534084 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:1.387177 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:1.250043 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:1.179861 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.080954 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:59.729423 seconds
+Online back tracking and restart / Runs:5000/7364 / Timeleft:51.201611 seconds
+Online back tracking and restart / Runs:5500/7364 / Timeleft:41.377631 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:30.644580 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:19.566383 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:8.171067 seconds
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 12).
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.925362 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.936368 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.937514 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.908853 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:5.946686 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.906593 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.922734 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.921141 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.893532 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:4.904682 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.323432 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.324997 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.328649 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.325519 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:4.323758 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.977275 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.990247 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.980361 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:3.990515 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:4.007736 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.518218 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.545506 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.540931 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.548653 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:3.561729 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.151514 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.187901 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.175699 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.191127 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:3.200224 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.863660 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.881463 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.895731 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.892896 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.894019 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.542332 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.563818 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.572611 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.573775 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:2.577028 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.270922 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.284942 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.294717 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.298018 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:2.297890 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.910064 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.922570 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.929808 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.934350 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.935596 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.530539 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.536237 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.542359 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.547412 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.547288 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:1.126119 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:1.129020 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:1.132976 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:1.138732 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:1.139028 mininuts
+Online back tracking and restart / Runs:6500/7364 / Timeleft:43.026130 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:43.135403 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:43.254792 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:43.496363 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:43.429016 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:17.921975 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:17.957072 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:18.011464 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:18.110289 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:18.095635 seconds
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+---------- Online back tracking and restart / Begin ----------
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.627398 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.664314 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.649639 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.623729 mininuts
+Online back tracking and restart / Runs:500/7364 / Timeleft:3.671193 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.128556 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.160837 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.154997 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.172518 mininuts
+Online back tracking and restart / Runs:1000/7364 / Timeleft:3.176129 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.772148 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.801558 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.808209 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.827642 mininuts
+Online back tracking and restart / Runs:1500/7364 / Timeleft:2.836902 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.633520 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.659508 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.685810 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.696590 mininuts
+Online back tracking and restart / Runs:2000/7364 / Timeleft:2.704463 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.347166 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.369392 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.411085 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.399210 mininuts
+Online back tracking and restart / Runs:2500/7364 / Timeleft:2.411734 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.113510 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.131340 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.159212 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.158266 mininuts
+Online back tracking and restart / Runs:3000/7364 / Timeleft:2.170638 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:1.997635 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.010411 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.035302 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.039904 mininuts
+Online back tracking and restart / Runs:3500/7364 / Timeleft:2.063874 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.805900 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.818354 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.844004 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.847931 mininuts
+Online back tracking and restart / Runs:4000/7364 / Timeleft:1.868210 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.648834 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.663152 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.686979 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.697784 mininuts
+Online back tracking and restart / Runs:4500/7364 / Timeleft:1.712048 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.411186 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.426601 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.442757 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.451604 mininuts
+Online back tracking and restart / Runs:5000/7364 / Timeleft:1.464086 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.137913 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.154639 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.166702 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.184694 mininuts
+Online back tracking and restart / Runs:5500/7364 / Timeleft:1.189289 mininuts
+Online back tracking and restart / Runs:6000/7364 / Timeleft:50.602386 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:51.527783 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:52.101861 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:53.228174 seconds
+Online back tracking and restart / Runs:6000/7364 / Timeleft:53.042048 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:32.615784 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:33.139256 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:33.432603 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:34.087309 seconds
+Online back tracking and restart / Runs:6500/7364 / Timeleft:34.112997 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:13.646432 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:13.895136 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:14.025825 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:14.281727 seconds
+Online back tracking and restart / Runs:7000/7364 / Timeleft:14.283656 seconds
+---------- Online back tracking and restart for joint learning / Begin ----------
+Online back tracking and restart for joint learning / Runs:500/7364 / Timeleft:9.969613 mininuts
+Online back tracking and restart for joint learning / Runs:1000/7364 / Timeleft:8.830827 mininuts
+Online back tracking and restart for joint learning / Runs:1500/7364 / Timeleft:7.942725 mininuts
+Online back tracking and restart for joint learning / Runs:2000/7364 / Timeleft:7.554612 mininuts
+Online back tracking and restart for joint learning / Runs:2500/7364 / Timeleft:6.773719 mininuts
+Online back tracking and restart for joint learning / Runs:3000/7364 / Timeleft:6.074055 mininuts
+Online back tracking and restart for joint learning / Runs:3500/7364 / Timeleft:5.596941 mininuts
+Online back tracking and restart for joint learning / Runs:4000/7364 / Timeleft:5.031162 mininuts
+Online back tracking and restart for joint learning / Runs:4500/7364 / Timeleft:4.526295 mininuts
+Online back tracking and restart for joint learning / Runs:5000/7364 / Timeleft:3.830284 mininuts
+Online back tracking and restart for joint learning / Runs:5500/7364 / Timeleft:3.136884 mininuts
+Online back tracking and restart for joint learning / Runs:6000/7364 / Timeleft:2.316218 mininuts
+Online back tracking and restart for joint learning / Runs:6500/7364 / Timeleft:1.474460 mininuts
+Online back tracking and restart for joint learning / Runs:7000/7364 / Timeleft:36.810972 seconds
+***************** Experiment result tables *****************
+-------------------- Distance and intensity error for different lead times --------------------
+Ens Mean & 23.30 & 36.34 & 50.22 & 65.03 & 6.742 & 8.692 & 9.899 & 11.036\\ \hline
+Persistance & 34.84 & 88.89 & 155.87 & 229.63 & 7.717 & 13.797 & 18.246 & 22.102\\ \hline
+NHC & 24.59 & 38.49 & 52.17 & 65.74 & 5.019 & 7.730 & 8.959 & 10.140\\ \hline
+PA & 23.30 & 36.34 & 50.23 & 64.80 & 6.547 & 10.563 & 13.294 & 15.268\\ \hline
+ORION & 23.37 & 36.36 & 50.21 & 65.00 & 5.792 & 7.941 & 9.388 & 10.551\\ \hline
+OMuLeT & 22.20 & 34.94 & 48.07 & 62.10 & 5.632 & 7.923 & 9.285 & 10.513\\ \hline
+JOHAN & 22.25 & 35.01 & 48.13 & 62.08 & 5.732 & 7.700 & 8.948 & 10.026\\ \hline
+JOHAN-NQ & 22.20 & 34.94 & 48.07 & 62.10 & 5.700 & 7.654 & 8.880 & 9.840\\ \hline
+JOHAN-Q(\xi=0.6) & 22.21 & 34.94 & 48.08 & 62.07 & 5.696 & 7.647 & 8.877 & 9.872\\ \hline
+JOHAN-Q(\xi=0.7) & 22.23 & 34.94 & 48.07 & 62.06 & 5.704 & 7.659 & 8.897 & 9.939\\ \hline
+JOHAN-Q(\xi=0.8) & 22.27 & 34.96 & 48.08 & 62.09 & 5.722 & 7.704 & 8.964 & 10.064\\ \hline
+JOHAN-Q(\xi=0.9) & 22.33 & 35.01 & 48.11 & 62.14 & 5.749 & 7.781 & 9.073 & 10.248\\ \hline
+-------------------- F1-scores for different category --------------------
+Ens Mean & 0.390 & 0.917 & 0.449 & 0.309 & 0.305 & 0.168 & 0.190\\ \hline
+Persistance & 0.396 & 0.859 & 0.327 & 0.247 & 0.234 & 0.330 & 0.378\\ \hline
+NHC & 0.540 & 0.924 & 0.554 & 0.411 & 0.390 & 0.462 & 0.502\\ \hline
+PA & 0.415 & 0.902 & 0.437 & 0.310 & 0.274 & 0.339 & 0.226\\ \hline
+ORION & 0.491 & 0.922 & 0.530 & 0.377 & 0.349 & 0.418 & 0.350\\ \hline
+OMuLeT & 0.494 & 0.923 & 0.502 & 0.367 & 0.386 & 0.380 & 0.404\\ \hline
+JOHAN & 0.499 & 0.922 & 0.499 & 0.357 & 0.385 & 0.380 & 0.450\\ \hline
+JOHAN-NQ & 0.498 & 0.923 & 0.499 & 0.361 & 0.390 & 0.372 & 0.444\\ \hline
+JOHAN-Q(\xi=0.6) & 0.500 & 0.923 & 0.502 & 0.362 & 0.390 & 0.378 & 0.445\\ \hline
+JOHAN-Q(\xi=0.7) & 0.500 & 0.922 & 0.501 & 0.356 & 0.388 & 0.382 & 0.448\\ \hline
+JOHAN-Q(\xi=0.8) & 0.500 & 0.922 & 0.504 & 0.357 & 0.385 & 0.385 & 0.448\\ \hline
+JOHAN-Q(\xi=0.9) & 0.501 & 0.921 & 0.503 & 0.358 & 0.383 & 0.393 & 0.446\\ \hline
+***************** Experiment result tables (within 200 n mi) *****************
+-------------------- Distance and intensity error for different lead times --------------------
+Ens Mean & 24.81 & 37.25 & 51.84 & 67.00 & 7.193 & 9.390 & 10.342 & 11.126\\ \hline
+Persistance & 38.30 & 94.57 & 164.58 & 236.38 & 9.005 & 15.842 & 20.444 & 23.910\\ \hline
+NHC & 26.41 & 39.96 & 56.03 & 69.65 & 5.442 & 8.351 & 9.677 & 10.702\\ \hline
+PA & 24.82 & 37.26 & 51.87 & 66.89 & 6.542 & 10.329 & 13.684 & 15.152\\ \hline
+ORION & 24.97 & 37.39 & 51.94 & 67.10 & 5.998 & 8.277 & 9.515 & 10.568\\ \hline
+OMuLeT & 23.87 & 36.77 & 50.26 & 62.86 & 5.909 & 8.308 & 9.498 & 10.638\\ \hline
+JOHAN & 23.88 & 36.68 & 50.21 & 62.54 & 5.844 & 7.880 & 8.745 & 9.633\\ \hline
+JOHAN-NQ & 23.87 & 36.77 & 50.25 & 62.86 & 5.828 & 7.884 & 8.790 & 9.522\\ \hline
+JOHAN-Q(\xi=0.6) & 23.85 & 36.67 & 50.26 & 62.70 & 5.794 & 7.853 & 8.731 & 9.528\\ \hline
+JOHAN-Q(\xi=0.7) & 23.84 & 36.59 & 50.14 & 62.54 & 5.793 & 7.841 & 8.705 & 9.567\\ \hline
+JOHAN-Q(\xi=0.8) & 23.86 & 36.52 & 50.04 & 62.42 & 5.805 & 7.878 & 8.751 & 9.699\\ \hline
+JOHAN-Q(\xi=0.9) & 23.90 & 36.43 & 49.89 & 62.31 & 5.847 & 7.969 & 8.862 & 9.899\\ \hline
+-------------------- F1-scores for different category --------------------
+Ens Mean & 0.378 & 0.919 & 0.414 & 0.234 & 0.318 & 0.188 & 0.195\\ \hline
+Persistance & 0.394 & 0.854 & 0.309 & 0.182 & 0.236 & 0.389 & 0.392\\ \hline
+NHC & 0.516 & 0.920 & 0.511 & 0.328 & 0.362 & 0.442 & 0.534\\ \hline
+PA & 0.454 & 0.899 & 0.412 & 0.281 & 0.298 & 0.395 & 0.436\\ \hline
+ORION & 0.505 & 0.927 & 0.509 & 0.330 & 0.375 & 0.431 & 0.459\\ \hline
+OMuLeT & 0.493 & 0.923 & 0.465 & 0.290 & 0.402 & 0.435 & 0.445\\ \hline
+JOHAN & 0.496 & 0.923 & 0.462 & 0.274 & 0.402 & 0.447 & 0.467\\ \hline
+JOHAN-NQ & 0.494 & 0.924 & 0.464 & 0.302 & 0.398 & 0.423 & 0.453\\ \hline
+JOHAN-Q(\xi=0.6) & 0.495 & 0.924 & 0.465 & 0.298 & 0.398 & 0.427 & 0.458\\ \hline
+JOHAN-Q(\xi=0.7) & 0.495 & 0.924 & 0.465 & 0.275 & 0.400 & 0.442 & 0.465\\ \hline
+JOHAN-Q(\xi=0.8) & 0.496 & 0.924 & 0.467 & 0.275 & 0.396 & 0.445 & 0.469\\ \hline
+JOHAN-Q(\xi=0.9) & 0.498 & 0.923 & 0.471 & 0.271 & 0.400 & 0.457 & 0.466\\ \hline
+***************** Experiment result tables (within 200 n mi and >64 kt) *****************
+-------------------- Distance and intensity error for different lead times --------------------
+Ens Mean & 15.80 & 28.47 & 41.21 & 52.09 & 13.274 & 17.325 & 20.246 & 20.382\\ \hline
+Persistance & 34.28 & 87.62 & 159.38 & 228.91 & 13.121 & 22.547 & 29.194 & 32.762\\ \hline
+NHC & 16.69 & 29.47 & 42.83 & 54.07 & 7.962 & 13.585 & 16.097 & 17.587\\ \hline
+PA & 15.81 & 28.48 & 41.22 & 51.98 & 8.765 & 16.042 & 24.275 & 24.656\\ \hline
+ORION & 16.02 & 28.61 & 41.29 & 52.15 & 8.483 & 13.171 & 16.806 & 17.555\\ \hline
+OMuLeT & 15.33 & 28.28 & 39.65 & 49.67 & 9.064 & 14.435 & 17.562 & 18.317\\ \hline
+JOHAN & 15.28 & 28.15 & 39.28 & 49.06 & 8.963 & 13.367 & 16.270 & 16.554\\ \hline
+JOHAN-NQ & 15.33 & 28.28 & 39.65 & 49.67 & 9.176 & 13.642 & 16.791 & 16.854\\ \hline
+JOHAN-Q(\xi=0.6) & 15.30 & 28.23 & 39.53 & 49.50 & 9.047 & 13.488 & 16.537 & 16.743\\ \hline
+JOHAN-Q(\xi=0.7) & 15.28 & 28.18 & 39.43 & 49.33 & 8.985 & 13.398 & 16.346 & 16.630\\ \hline
+JOHAN-Q(\xi=0.8) & 15.27 & 28.15 & 39.35 & 49.16 & 8.950 & 13.362 & 16.256 & 16.606\\ \hline
+JOHAN-Q(\xi=0.9) & 15.27 & 28.14 & 39.29 & 49.00 & 8.986 & 13.412 & 16.256 & 16.671\\ \hline
+-------------------- F1-scores for different category --------------------
+Ens Mean & NaN & NaN & 0.452 & 0.236 & 0.318 & 0.188 & 0.195\\ \hline
+Persistance & NaN & NaN & 0.408 & 0.227 & 0.270 & 0.415 & 0.400\\ \hline
+NHC & NaN & NaN & 0.619 & 0.337 & 0.364 & 0.442 & 0.534\\ \hline
+PA & NaN & NaN & 0.501 & 0.313 & 0.317 & 0.407 & 0.442\\ \hline
+ORION & NaN & NaN & 0.586 & 0.343 & 0.379 & 0.431 & 0.459\\ \hline
+OMuLeT & NaN & NaN & 0.516 & 0.299 & 0.404 & 0.435 & 0.445\\ \hline
+JOHAN & NaN & NaN & 0.519 & 0.278 & 0.404 & 0.447 & 0.467\\ \hline
+JOHAN-NQ & NaN & NaN & 0.514 & 0.306 & 0.399 & 0.423 & 0.453\\ \hline
+JOHAN-Q(\xi=0.6) & NaN & NaN & 0.517 & 0.302 & 0.399 & 0.427 & 0.458\\ \hline
+JOHAN-Q(\xi=0.7) & NaN & NaN & 0.520 & 0.280 & 0.401 & 0.442 & 0.465\\ \hline
+JOHAN-Q(\xi=0.8) & NaN & NaN & 0.525 & 0.279 & 0.398 & 0.445 & 0.469\\ \hline
+JOHAN-Q(\xi=0.9) & NaN & NaN & 0.533 & 0.277 & 0.402 & 0.457 & 0.466\\ \hline
+diary off
